@@ -6,7 +6,7 @@ As the name implies, Shorty transforms your lengthy, mundane URLs into concise, 
 
 ## Screenshots
 
-![App Screenshot](https://adarshjaiswal.com/wp-content/uploads/2024/02/screencapture-127-0-0-1-8000-2024-02-18-18_48_03.png)
+![App Screenshot](https://adarshjaiswal.com/wp-content/uploads/2024/02/screencapture-127-0-0-1-8000-2024-02-18-22_54_50.png)
 
 
 ## Features
